@@ -14,7 +14,7 @@ https://github.com/mcarson16/kickstarter-analysis/blob/a4244828ca8f2ddeda2675ddf
 ![image](https://user-images.githubusercontent.com/83254435/117589570-ec1e1980-b0ef-11eb-87ec-d7e5a667b515.png)
 https://github.com/mcarson16/kickstarter-analysis/blob/a4244828ca8f2ddeda2675ddf3bec0bc1d6e6424/Outcomes_vs_Goals.PNG
 
-### Challenges and Difficulties Encountered: IT was very important to specify exact ranges that did not overlap for the "Outcomes Based on Goal" dataset and chart. Failure to do so created redundancy in the COUNTIFS function.
+### Challenges and Difficulties Encountered: It was very important to specify exact ranges that did not overlap for the "Outcomes Based on Goal" dataset and chart. Failure to do so created redundancy in the COUNTIFS function.
 
 ## Results
 
