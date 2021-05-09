@@ -7,9 +7,11 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date: The "Theater Outcomes Based on Launch Date" chart shows the number of successful, failed, and cancelled campaigns for Kickstarters in the "theater" category, broken down by month. Within the Excel workbook, the data can be further filtered down by year, for campaigns from 2009 through 2017, with catch groups of campaigns prior to 5/17/2009 and campaigns after 3/15/2017.
+![image](https://user-images.githubusercontent.com/83254435/117589563-e294b180-b0ef-11eb-9928-f355ec57552e.png)
 https://github.com/mcarson16/kickstarter-analysis/blob/a4244828ca8f2ddeda2675ddf3bec0bc1d6e6424/Theater_Outcomes_vs_Launch.PNG
 
 ### Analysis of Outcomes Based on Goals: The "Outcomes Based on Goal" chart shows the percentage of successful, failed, and cancelled campaigns for Kickstarters in the "plays" subcategory of the "theater" parent category, broken down by funding goal ranges from <$1000 to >$50,000, increasing in $5000 increments after the initial <$1000 category.
+![image](https://user-images.githubusercontent.com/83254435/117589570-ec1e1980-b0ef-11eb-87ec-d7e5a667b515.png)
 https://github.com/mcarson16/kickstarter-analysis/blob/a4244828ca8f2ddeda2675ddf3bec0bc1d6e6424/Outcomes_vs_Goals.PNG
 
 ### Challenges and Difficulties Encountered: IT was very important to specify exact ranges that did not overlap for the "Outcomes Based on Goal" dataset and chart. Failure to do so created redundancy in the COUNTIFS function.
